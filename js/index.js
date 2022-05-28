@@ -21,7 +21,7 @@ const autos = [
 
 window.onload = function(){
  //1.COLOCÁ ACÁ EL CÓDIGO PARA SETEAR TODOS LOS AUTOS EN PROMOCIÓN
-   alert("Esta funcionando");     
+   console.log("Esta funcionando");     
 }
 
 
